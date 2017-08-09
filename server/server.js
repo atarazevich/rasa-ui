@@ -1,4 +1,4 @@
-process.title = process.argv[2];
+process.title = 'rasaui';
 var express = require('express');
 var proxy = require('http-proxy-middleware');
 var bodyParser = require('body-parser');

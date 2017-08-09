@@ -22,7 +22,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server/server.js rasaui",
+    "start": "node server/server.js",
     "stop": "pkill --signal SIGINT rasaui"
   },
   "author": "Paul Aschmann",
