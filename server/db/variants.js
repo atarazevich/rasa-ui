@@ -30,20 +30,7 @@ function getEntitySynonymVariantsQuery(req, res, next) {
   console.log("variants.getEntitySynonymVariantsQuery");
   var entityIds = req.query.entity_ids;
   var sql = 'select * from entity_synonym_variants where entity_id in (' + entityIds + ')';
-  console.log(sql);
-  if (entityIds){
-    db.any(sql)
-      .then(function (data) {
-        res.status(200)
-          .json(data);
-      })
-      .catch(function (err) {
-        return next(err);
-      });
-  }
-  else {
-    return;
-  }
+  return;
 }
 
 function createVariant(req, res, next) {
