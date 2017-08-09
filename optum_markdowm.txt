@@ -1,0 +1,67 @@
+## intent:Will there be a change in monthly fees with the migration to the Bank?
+- If I migrate to other bank, will the monthly fee change?
+- When I migrate to the other bank, will there be a change in monthly fees?
+- Will the fee structure change when I move to the other bank?
+- If migrating to other bank will the monthly fee change?
+- Will my monthly fees be different after I switch banks?
+- When I switch banks will there be a change in monthly fees?
+- How the Bank alteration process will influence the monthly charge?
+- Will the shift to the other Bank result in a change in monthly fees?
+- Will you be changing monthly fees once we migrate to the new Bank?
+- Will the monthly fees change upon transfer to the other bank?
+- Will the other Bank charge the same monthly fees?
+- Will my fees change if I switch to another bank?
+- Will monthly fees change if switching to another bank?
+- Will my monthly charges be different when we move to the new bank?
+- Will the other Bank charge a different monthly fee?
+
+## intent:How frequently will bank statements be generated?
+- How often will I get bank statements?
+- how frequently will I get the satetements?
+- How often will you give me a bank statement?
+- How often can I expect bank statements to arrive?
+- How often will a Bank statement be recieved?
+- How often will bank statements be sent to me?
+- How often will the monthly statements be delivered?
+- With what frequency will Bank generate statements?
+- How often will I get statements from Bank?
+- How often are account statements delivered?
+- How often will Bank statements be made?
+- How often will a bank statement be created?
+- How often will my bank statements come?
+- How regularly will the Bank statements come?
+- How often will I receive a bank statement?
+
+## intent:Will my recurring payments or bill payments with my Company be migrated over to the Bank?
+- Will migration of payments be done over to Bank?
+- Will my bill payments or recurring payments on company be changed over to bank?
+- Will I need to update my recurring payments and bills?
+- If I have recurring or bill payments on Company will they transfer to Bank?
+- Do my automatic payments transfer over to the bank?
+- When I switch to the new bank will my recurring payments or bill payments be maintained?
+- Will my monthly fees or medical charges on Employer be sent to the Bank?
+- Will Company recurring or bill payments move over to Bank?
+- When we change over to Bank, do I have to set up my recurring payments again, or will they transfer over?
+- Will my existing bill payer recurring payments carryover in the merger?
+- Will I have to set up my recurring or bill payments with the new Bank?
+- Will my recurring payments be switched over to Optum?
+- Will my recurring payments or bill payments carry over to Bank?
+- Will my recurring debits automatically be the same at the new bank?
+- Will any current recurring payments migrate over to Bank?
+
+## intent:Does the Bank offer an alternate billing account for the monthly service fee?
+- Is there an alternate billing account for service fee?
+- Does the bank offer another way to bill my account for the monthly service fee?
+- Can I get another billing account in order to pay the service fee?
+- Is there another billing account for monthly service fee at Bank?
+- Does the monthly service fee come with an alternate billing account?
+- Is there another billing account being offered for the monthly service fee?
+- Is there a different account for the recurring payments in the Bank?
+- Is there an alternate billing account offered by Bank for the monthly services fee?
+- Can I charge a different account for monthly service fees?
+- Can the monthly fee be taken out of another account?
+- Can I pay the monthly service fee with an account other than my account at Bank?
+- Is there a different billing account for the monthly fee?
+- Is an alternate billing account offered for the monthly service fee?
+- Can I get an alternate billing account without paying an additional fee?
+- Does Bank have an alternate billing account option?
