@@ -61,7 +61,7 @@ function TrainingController($scope, $rootScope, $interval, $http, Rasa_Status, A
           console.log(params);
           console.log("PARAMS");
           var entityIds = params.map(function(item) { return item['entity_id']; }).toString();
-          if (entityIds !== undefined){
+          if (entityIds){
             $http({method: 'GET', url: api_endpoint_v2 + '/entity_synonym_variants?entity_ids=' + entityIds}).
             then(function(data) {
               synonyms = data.data;
