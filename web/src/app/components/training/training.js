@@ -57,14 +57,22 @@ function TrainingController($scope, $rootScope, $interval, $http, Rasa_Status, A
         $http({method: 'GET', url: api_endpoint_v2 + "/expression_parameters?expression_ids=" + expressionIds}).
         then(function(data) {
           params = data.data;
+          console.log("PARAMS");
+          console.log(params);
+          console.log("PARAMS");
           var entityIds = params.map(function(item) { return item['entity_id']; }).toString();
-          $http({method: 'GET', url: api_endpoint_v2 + '/entity_synonym_variants?entity_ids=' + entityIds}).
-          then(function(data) {
-            synonyms = data.data;
-            generateData(intents, expressions, params, synonyms)
-          }, function(error) {
-            console.log(error);
-          });
+          if (entityIds !== undefined){
+            $http({method: 'GET', url: api_endpoint_v2 + '/entity_synonym_variants?entity_ids=' + entityIds}).
+            then(function(data) {
+              synonyms = data.data;
+              generateData(intents, expressions, params, synonyms)
+            }, function(error) {
+              console.log(error);
+            });
+          }
+          else {
+            generateData(intents, expressions, params, synonyms);
+          }
         }, function(error) {
           console.log(error);
         });
